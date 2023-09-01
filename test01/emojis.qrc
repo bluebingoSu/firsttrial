@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>emojis/1.jpg</file>
+        <file>emojis/2.svg</file>
+        <file>emojis/3.svg</file>
+        <file>emojis/4.svg</file>
+        <file>emojis/5.svg</file>
+        <file>emojis/6.jpg</file>
+        <file>emojis/7.svg</file>
+        <file>emojis/8.svg</file>
+        <file>emojis/9.svg</file>
+        <file>emojis/10.svg</file>
+        <file>emojis/11.svg</file>
+    </qresource>
+</RCC>
